@@ -1,5 +1,6 @@
 import json
 
+
 class ASTNode:
     """Base class for all AST nodes."""
     

@@ -7,6 +7,7 @@ class RunTimeError(Exception):
         self.column = column
 
 
+
 class Environment:
     """Manages variable binding scopes, constants validation, and nesting enclosing environments."""
     

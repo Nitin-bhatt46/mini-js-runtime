@@ -5,6 +5,7 @@ class TokenType(enum.Enum):
     EOF = "EOF"
     ILLEGAL = "ILLEGAL"
 
+
     # Identifiers & Literals
     IDENT = "IDENT"
     NUMBER = "NUMBER"

@@ -21,6 +21,7 @@ from mini_js.ast import (
     IndexExpression,
 )
 
+
 class ParserError(Exception):
     """Custom exception raised for parsing errors."""
     

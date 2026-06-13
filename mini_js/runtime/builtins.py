@@ -7,6 +7,7 @@ class Console:
         self.members = {
             "log": self.log
         }
+        
 
     def log(self, *args) -> None:
         """Prints space-separated arguments to stdout, formatting JS-like values."""

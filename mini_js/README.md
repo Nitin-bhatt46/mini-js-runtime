@@ -24,7 +24,7 @@ Python 3.10+
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mini_js.git
+[git clone https://github.com/YOUR_USERNAME/mini_js.git](https://github.com/Nitin-bhatt46/mini-js-runtime.git)
 
 cd mini_js
 

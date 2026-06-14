@@ -156,7 +156,7 @@ mini_js/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mini-js-runtime.git
+git clone https://github.com/Nitin-bhatt46/mini-js-runtime.git
 ```
 
 Move into the project:
